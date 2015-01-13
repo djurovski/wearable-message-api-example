@@ -1,0 +1,17 @@
+*.class
+*.dex
+*.apk
+*.ap_
+*.iml
+*.iws
+*.ipr
+*.log
+.gradle/
+.idea/
+build/
+gen/
+bin/
+local.properties
+gradle.properties
+.DS_Store
+Thumbs.db
